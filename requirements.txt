@@ -1,0 +1,6 @@
+azure-ai-agentserver-agentframework # install this with the --pre flag
+motor
+pymongo[ocsp]
+debugpy
+# Agent development CLI tool (preview)
+agent-dev-cli
